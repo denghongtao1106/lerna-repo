@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git+https://github.com/denghongtao1106/lerna-repo.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "test": "node ./__tests__/dong.test.js"
   },
