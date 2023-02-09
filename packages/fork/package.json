@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denghongtao1106/lerna-repo.git"
+    "url": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/fork.test.js"
@@ -26,5 +26,5 @@
   "dependencies": {
     "react": "^18.2.0"
   },
-  "gitHead": "4a60d500c734c265d9ea58e40242dd85dbcbdd54"
+  "gitHead": "b375ff6c313fae7050a5fba5a72ab17611c9589c"
 }
