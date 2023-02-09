@@ -1,0 +1,29 @@
+{
+  "name": "fork",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "denghongtao <denght@aeroht.com>",
+  "homepage": "https://github.com/denghongtao1106/lerna-repo#readme",
+  "license": "ISC",
+  "main": "lib/fork.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denghongtao1106/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/fork.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/denghongtao1106/lerna-repo/issues"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

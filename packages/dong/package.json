@@ -1,0 +1,26 @@
+{
+  "name": "dong",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "denghongtao <denght@aeroht.com>",
+  "homepage": "https://github.com/denghongtao1106/lerna-repo#readme",
+  "license": "ISC",
+  "main": "lib/dong.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denghongtao1106/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/dong.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/denghongtao1106/lerna-repo/issues"
+  }
+}
