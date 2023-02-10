@@ -1,7 +1,8 @@
-'use strict';
+"use strict";
 
 module.exports = fork;
 
 function fork() {
-    return "Hello from fork";
+  console.log("修改");
+  return "Hello from fork";
 }
